@@ -4,3 +4,19 @@ Email: chiaraseco50@gmail.com
 
 1. Me resultó sencillo el ingreso, los profesores siempre estuvieron muy predispuestos en resolver dudas y consultas. Personalmente, se me complicó un poco dado que tenia que viajar y no contaba con el beg, pero gracias al modelo híbrido, pude asistir.
 2. Hice uso del razonamiento para identificar aquellas cosas positivas y negativas; el pensamiento lateral para resolver las dificultades que tuve respecto a la cursada y la planificación para poder volcar todo esto de forma ordenada.
+
+Pasos que hice para subir este texto a github:
+1. Dado que este repositorio y sus archivos no tienen una finalidad más allá de cumplir una consigna, es decir, no se trata de un programa o algo que tenga continuidad de desarrollo, preferí no vincularlo con mi computadora y subir el archivo txt arrastrando y soltando en la interfaz de github. Sin embargo, si se tratara de un progama en desarrollo, haría los siguientes comandos:
+
+git init
+git commit -m "primer commit"
+git branch -M main
+git remote add origin https://github.com/Chiara321/TareaHoussay1.git
+git push -u origin main
+Token de perfil de git
+
+o también:
+
+git remote add origin https://github.com/Chiara321/TareaHoussay1.git
+git branch -M main
+git push -u origin main
